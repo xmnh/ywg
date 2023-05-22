@@ -18,3 +18,4 @@
 * [一个懒人的破解方式](https://www.52pojie.cn/thread-1747613-1-1.html)
 * [记一次frida实战——对某视频APP的脱壳、hook破解、模拟抓包、协议分析一条龙服务](https://bbs.kanxue.com/thread-258776.htm)
 * [Android支付宝蚂蚁森林能量自动收取插件开发原理解析](https://www.52pojie.cn/thread-794312-1-1.html)
+* [今天 就来成为一名白嫖怪吧](https://www.52pojie.cn/thread-1461832-1-1.html)
