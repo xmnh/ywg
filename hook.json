@@ -1,3 +1,21 @@
 {
-  
+  "appName": "",
+  "packageName": "",
+  "versions": "",
+  "hook": [
+    {
+      "className": "",
+      "methodName": "",
+      "param": [
+        {
+          "paramType": "int",
+          "paramValue": 1
+        }
+      ],
+      "return": {
+        "returnType": "java.lang.String",
+        "returnValue": "1"
+      }
+    }
+  ]
 }
