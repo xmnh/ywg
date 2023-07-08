@@ -20,3 +20,4 @@
 * [Android支付宝蚂蚁森林能量自动收取插件开发原理解析](https://www.52pojie.cn/thread-794312-1-1.html)
 * [今天 就来成为一名白嫖怪吧](https://www.52pojie.cn/thread-1461832-1-1.html)
 * [某艺TV版 apk 破解去广告及源码分析 ](https://bbs.kanxue.com/thread-276778.htm)
+* [Xposed过滤某论坛APP广告](https://bbs.kanxue.com/thread-277911.htm)
