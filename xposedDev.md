@@ -389,3 +389,19 @@ public class QQLive implements BaseHook {
 }
 ```
 ---
+### 在xposed的入口类进行调用工厂方法
+```java
+    @Override
+    public void handleLoadPackage(XC_LoadPackage.LoadPackageParam param) throws Throwable {
+        try {
+            // 实例化工厂
+            BaseHook baseHook = AppFactory.init(loadPackageParam.processName);
+            if (baseHook != null) {
+                // 调用hook方法
+                hookAttach(baseHook::hook);
+            }
+        } catch (Exception e) {
+            XposedBridge.log(e.getMessage());
+        }
+    }
+```
