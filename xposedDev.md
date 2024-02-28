@@ -1,5 +1,11 @@
 # Android Studio 开发 xposed 模块
 
+## 开源项目
+
+[SoulFrog](https://github.com/xmnh/SoulFrog)
+
+---
+
 ## 项目环境
 
 |      name      | versions |
